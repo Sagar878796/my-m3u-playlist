@@ -7,6 +7,14 @@ https://emb.tvp4.online/p2p/?id=269484
 https://emb.tvp4.online/p2p/?id=271880
 #EXTINF:-1 group-title="Sports" tvg-logo="https://match-images.icdb.tv/87cad4ae601f884b43d06310aba34a9f.jpg",sky sports 4 NZ em
 https://emb.tvp4.online/p2p/?id=270465
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzsgbtfvkt_5WLVkkJh7o8X20vSOCt4xSz2HwHvFzLkI85AfvTjrh6Oax&s=10",Arena Sports 3
+https://emb.tvp4.online/p2p/?id=271218
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mediadaily.biz/wp-content/uploads/2022/08/arena-sport-1-premium-slovenija-ok.jpg",Arena Premier
+https://emb.tvp4.online/p2p/?id=271231
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Sport 5 ישיר
+https://emb.tvp4.online/p2p/?id=269039
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnF_vYYM0A2XLaBOptQqcruxEMrWLLDAW9UTuhVpRPw&s=10",SK 2 HD
+https://emb.tvp4.online/p2p/?id=268669
 #EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/XArH4ACYcOE1JYadHLRdHEERLBSh3ZQwZuf_NfWWeEilFDTqawTrN1ab25y7gPRMglVb5Ma8X1bH7OLppqebtQ=w480-h960-rw",MBC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
@@ -549,7 +557,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/inde
 #KODIPROP:inputstream.adaptive.manifest.type=mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/Ctl07ou.png",TNT Sports 3 (1080)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/index.m3u8
+https://emb.tvp4.online/p2p/?id=268834
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/Ctl120x.png",TNT Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
@@ -1219,15 +1227,25 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b6a48d3a094539af45382c1b748bd3:326ce2fd8f8cdae580c9776af2e702ec
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
-#EXTINF:-1 tvg-name="China - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795289014~acl=/*~id=86549809341013771316011584563358~hmac=9c2e117497c44c0f502267e01dfd2b3dd759eaf1473224f54d8d5410bfab0e4b
-#EXTINF:-1 tvg-id="B0HNMFJNRM" tvg-name="Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.74e81e99-a2da-490e-b621-063bce13c67f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women
+#EXTINF:-1 tvg-name="Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795318107~acl=/*~id=99915536993707036728083082347874~hmac=a447d47e7e413fc845e20eb1a5f5d8111bd3083be6fd2b94e9c71668d88aaa32
+#EXTINF:-1 tvg-name="NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795318107~acl=/*~id=99915536993707036728083082347874~hmac=a447d47e7e413fc845e20eb1a5f5d8111bd3083be6fd2b94e9c71668d88aaa32
+#EXTINF:-1 tvg-name="NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795318107~acl=/*~id=99915536993707036728083082347874~hmac=a447d47e7e413fc845e20eb1a5f5d8111bd3083be6fd2b94e9c71668d88aaa32
+#EXTINF:-1 tvg-id="B0HMCN5NM8" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a28093f-2e23-4bdb-8aaa-ca038715ae16/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd
-#EXTINF:-1 tvg-name="ENG | NBA TV International: The Association @virat10" tvg-id="amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg" group-title="Prime Video | Sportlink",ENG | NBA TV International: The Association
+#KODIPROP:inputstream.adaptive.license_key=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd
+#EXTINF:-1 tvg-id="B0HS85SP95" tvg-name="International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5566761-b72f-45ad-89b5-d9febee8e5f4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | NBA TV International: WNBL Full Court @virat10" tvg-id="amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg" group-title="Prime Video | Sportlink",ENG | NBA TV International: WNBL Full Court
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -1236,8 +1254,8 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2gr
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd
-#EXTINF:-1 tvg-name="Qualifying @virat10" tvg-id="amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/71DkpjtJqAL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 2: Las Vegas Grand Prix, Qualifying
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | FanCode 2: Stay Tuned Slate @virat10" tvg-id="amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 2: Stay Tuned Slate
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -1246,8 +1264,8 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-name="ENG | FanCode 1: Best of Carabao Cup 2024-25 @virat10" tvg-id="amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/B1WRzstncDL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 1: Best of Carabao Cup 2024-25
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="ENG | FanCode 1: Sydney Sixers vs Perth Scorchers @virat10" tvg-id="amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/S/combee-overridden-images/a/f/2/af2d50809ff4ab0809181077acd7d4e6.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 1: Sydney Sixers vs Perth Scorchers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -1256,7 +1274,7 @@ https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avqly
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-name="TATA IPL LIVE TV @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5897/1782285865897-h.jpg" group-title="Jio Hotstar | Sportlink", TATA IPL LIVE TV
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
