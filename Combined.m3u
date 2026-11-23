@@ -1197,6 +1197,10 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/9X_Jhakaas/hls_fta/9X_Jhakaas.m
 https://d1iwj24qiokrul.cloudfront.net/live/media/9X_Tashan/hls_fta/9X_Tashan.m3u8
 #EXTINF:-1 tvg-id="9487071" tvg-name="9XM" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/18981b21fabf41f9832523ad441963f8/version/0" group-title="Music",9XM
 https://d1iwj24qiokrul.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8
+#EXTINF:-1 tvg-id="9624885" tvg-name="Anmol Cinema 2" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/74146d693d6640009a5ed2db2e0c9643/version/0" group-title="Movies",Anmol Cinema 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=853c2069c7614ae9a808f17ce59e07ec:db2807f5a248440bf7a373f111daa89a
+https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd
 #EXTINF:-1 tvg-id="9624883" tvg-name="Big Magic" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a4225f7d32c549638e3c8926a78079e6/version/0" group-title="Entertainment",Big Magic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdedc607891144fda5a8c694d6a2cc82:e2b6b06e5c4ffa2010e6767ad5749c2f
@@ -1348,15 +1352,15 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd
 #KODIPROP:inputstream.adaptive.license_key=07b6a48d3a094539af45382c1b748bd3:326ce2fd8f8cdae580c9776af2e702ec
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 #EXTINF:-1 tvg-name="1st Test - Day 5 - 23 Nov 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st Test - Day 5 - 23 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795441528~acl=/*~id=70683445558675931973186040271861~hmac=e745e9d229c38ad6ad8cc1fa12967765d4c27617818a15dbf1382e411da42739
 #EXTINF:-1 tvg-name="1st Test - Day 5 - 23 Nov 2026 [HIN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st Test - Day 5 - 23 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795441528~acl=/*~id=70683445558675931973186040271861~hmac=e745e9d229c38ad6ad8cc1fa12967765d4c27617818a15dbf1382e411da42739
 #EXTINF:-1 tvg-name="1st Test - Day 5 - 23 Nov 2026 [TAM] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st Test - Day 5 - 23 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795441528~acl=/*~id=70683445558675931973186040271861~hmac=e745e9d229c38ad6ad8cc1fa12967765d4c27617818a15dbf1382e411da42739
 #EXTINF:-1 tvg-name="1st Test - Day 5 - 23 Nov 2026 [TEL] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st Test - Day 5 - 23 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795441528~acl=/*~id=70683445558675931973186040271861~hmac=e745e9d229c38ad6ad8cc1fa12967765d4c27617818a15dbf1382e411da42739
 #EXTINF:-1 tvg-name="1st Test - Day 5 - 23 Nov 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st Test - Day 5 - 23 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795441528~acl=/*~id=70683445558675931973186040271861~hmac=e745e9d229c38ad6ad8cc1fa12967765d4c27617818a15dbf1382e411da42739
 #EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="India tour of New Zealand 2026 - 1st Test - New Zealand vs India @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/13/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India tour of New Zealand 2026 - 1st Test - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
