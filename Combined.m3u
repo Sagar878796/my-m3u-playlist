@@ -39,9 +39,9 @@ https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809396.m3u8
 https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809397.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFleoiAWTHl91Vrv_BFgX6b45aKyrus86umMdCbXJ8E_6UG4DrFY0DKw&s=10",PTV SPORTS HD
 https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809398.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://amplia.co.tt/web_storage/2026/04/rush-sports-logo.png",RUSH SPORTS
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofczbtf.jpg",RUSH SPORTS
 https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809405.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJJdor7PzmvZw8zhZQQHfXbA_GgGDkBG6IKSNoemIRN0TPipN1RK8NCo&s=10",RUSH SPORTS 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofcYDCu.jpg",RUSH SPORTS 2 HD
 https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809406.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQxWPzKoVTCrkqygZjyBWj9Q7yVYq01uOSsMx205cdD-WQ7QOccFcSD_L&s=10",FLOW SPORTS HD
 https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809404.m3u8
@@ -1251,7 +1251,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinem
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22f385ba1d814f2ea0a5c972790ae45e:ba97bbcd9735e1965ddffe806f09ac61
 https://d1iwj24qiokrul.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
-#EXTINF:-1 tvg-id="9487060" tvg-name="DD Bharti" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/352de2ba90694929895751d926b6f3bc/version/0" group-title="Entertainment",DD Bharti
+#EXTINF:-1 tvg-id="9487060" tvg-name="DD Bharti" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9ac9516189654175bffc220b723e928d/version/0" group-title="Entertainment",DD Bharti
 https://d1iwj24qiokrul.cloudfront.net/live/media/DD_Bharti/hls_fta/DD_Bharti.m3u8
 #EXTINF:-1 tvg-id="9487068" tvg-name="DD National" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/28b8bef7e39548d0ab6ab86d4bbb5e88/version/0" group-title="Entertainment",DD National
 https://d1iwj24qiokrul.cloudfront.net/live/media/DD_National/hls_fta/DD_National.m3u8
@@ -1269,7 +1269,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bangla/hls_fta/Sangeet_Bangla.m3u8
 #EXTINF:-1 tvg-id="9487059" tvg-name="Sangeet Bhojpuri" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0" group-title="Music",Sangeet Bhojpuri
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8
-#EXTINF:-1 tvg-id="9487056" tvg-name="Sansad TV 1" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ca626f335d7647178e790a05cf1c9ffa/version/0" group-title="Entertainment",Sansad TV 1
+#EXTINF:-1 tvg-id="9487056" tvg-name="Sansad TV 1" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0" group-title="Entertainment",Sansad TV 1
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8
 #EXTINF:-1 tvg-id="9487058" tvg-name="Sansad TV 2" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f6ace40e05bd435184b232ca5d67fc62/version/0" group-title="Entertainment",Sansad TV 2
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_2_HD/hls_fta/Sansad_TV_2_HD.m3u8
@@ -1285,7 +1285,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf8995c68d64315b22420c4477bc292:8be5ee28aebac15b279460f36caa843c
 https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
-#EXTINF:-1 tvg-id="9487082" tvg-name="Wion" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/938610751fea47dbbaa97beae47fdc12/version/0" group-title="News",Wion
+#EXTINF:-1 tvg-id="9487082" tvg-name="Wion" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/11d3678b209d426688a88adc01830f1d/version/0" group-title="News",Wion
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0dc8ab384314258bda845a627485c57:cbceaf076bc8065fa7026cf187b263ac
 https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd
@@ -1293,7 +1293,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3334a3af2b384c01a5436e5208f1558f:6a2e03a67e9317bc91df420eb4845e52
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Twenty_Four_Ghanta/dash/Zee_Twenty_Four_Ghanta.mpd
-#EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1939be35954742989bd03c0108a64f4c/version/0" group-title="Movies",Zee Action
+#EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08c3d3f0e3bc49d694229a0d7f341a99:c9ef1aef542b7ee1ed745990e38c93cc
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
@@ -1337,7 +1337,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Business/dash/Zee_Business.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=190aed4caff84c21b240df5abeb8eac1:b9a73ef03becb3d98cc441d166035e1e
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
-#EXTINF:-1 tvg-id="9624889" tvg-name="Zee Cinemalu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b9ab293f61c24d7697352215c83ce463/version/0" group-title="Movies",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="9624889" tvg-name="Zee Cinemalu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a33211ad359a4cba8b23144e4081ff68/version/0" group-title="Movies",Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaaad73caba484184127da53408546e:18554568e60d809ee0df06fda2ac5f63
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd
@@ -1397,7 +1397,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Tamil_HD/dash/ZEE_Tamil_HD.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62099a6e6c04471d94bf02a6a005decb:19ff7b82f5ab78c1101b81d773bc9f10
 https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Telugu_HD/dash/ZEE_Telugu_HD.mpd
-#EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0" group-title="Movies",Zee Thirai
+#EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/52a61ca3a8d0466492b16fe324dfe66c/version/0" group-title="Movies",Zee Thirai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa1ce15a4d784c5690d2d1713f8ce98d:6dc5c8591834fb369480fc5bcaeadd84
 httpS://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd
@@ -1421,22 +1421,16 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b6a48d3a094539af45382c1b748bd3:326ce2fd8f8cdae580c9776af2e702ec
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04
-#EXTINF:-1 tvg-id="B0HR6PG192" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7ce31cd4-075b-478e-a281-f98d632e52d5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates
+#EXTINF:-1 tvg-name="Bodø/Glimt vs LASK - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bodø/Glimt vs LASK - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795588971~acl=/*~id=16773703374515526392464263505405~hmac=b0fb33aa6813043119747b0a595bd26b1351e4d8247d9a19dcc56ead76089b4b
+#EXTINF:-1 tvg-name="Galatasaray vs Aston Villa - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Galatasaray vs Aston Villa - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795588971~acl=/*~id=16773703374515526392464263505405~hmac=b0fb33aa6813043119747b0a595bd26b1351e4d8247d9a19dcc56ead76089b4b
+#EXTINF:-1 tvg-id="B0HQQV94GJ" tvg-name="International League T20 2026 - 5th Match - Gulf Giants vs Mi Emirates @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdf2bec4-d6e0-4ffd-a08f-96202ad26237/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",International League T20 2026 - 5th Match - Gulf Giants vs Mi Emirates
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7dcfc23b4712a8031fa154bfb07917e7:fd7078d53cb394fed87690a2d408385e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd
 #EXTINF:-1 tvg-name="ENG | NBA TV International: WNBL Full Court @virat10" tvg-id="amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg" group-title="Prime Video | Sportlink",ENG | NBA TV International: WNBL Full Court
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1471,15 +1465,15 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/b3b3fkmr
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://livetv.hotstar.com/out/v1/llg-tv-mum/1540072843_hindi_5e0a66fc/gec-india_hls_unencrypted/master-ap-1080-4.m3u8
 #EXTINF:-1 tvg-name="Savdhaan India: Crime 24/7 @virat10" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3562/1788267743562-h.jpg" group-title="Jio Hotstar | Sportlink", Savdhaan India: Crime 24/7
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://livetv.hotstar.com/out/v1/llg-tv-mum/1540077800_hindi_7537fdaa/gec-india_hls_unencrypted/master-ap-1080-4.m3u8
 #EXTINF:-1 tvg-name="MTV HD DIGITAL @virat10" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8633/1786020488633-h" group-title="Jio Hotstar | Sportlink", MTV HD DIGITAL
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1490,8 +1484,8 @@ https://livetv.hotstar.com/out/v1/llg-tv-mum/1540077800_hindi_7537fdaa/gec-india
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://livetv.hotstar.com/mp1/gec-india-1540075041/3a3fc861054b441a9e52e12627c7a2dd/index.mpd
 #EXTINF:-1 tvg-name="EPL MPD TEST @virat10" tvg-logo="https://thumbs.dreamstime.com/b/no-signal-wallpaper-vibrant-error-message-retro-tv-screen-featuring-colorful-test-pattern-retro-tv-screen-illustration-404198661.jpg" group-title="Jio Hotstar | Sportlink", EPL MPD TEST
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1502,71 +1496,71 @@ https://livetv.hotstar.com/mp1/gec-india-1540075041/3a3fc861054b441a9e52e12627c7
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://live09p.hotstar.com/mp1/inallow-epl-2026-27-1540076792/26c8d4c077db48fc9561b5b4640cc0be/index.mpd
 #EXTINF:-1 tvg-name="News18 Punjab Haryana @virat10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="Jio Hotstar | Sportlink", News18 Punjab Haryana
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/JS_News18PunjabHaryana/JioHotstar/JS_News18PunjabHaryana.m3u8
 #EXTINF:-1 tvg-name="News18 Tamilnadu @virat10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Jio Hotstar | Sportlink", News18 Tamilnadu
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/JS_News18Tamilnadu/JioHotstar/JS_News18Tamilnadu.m3u8
 #EXTINF:-1 tvg-name="News18 JKLH @virat10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="Jio Hotstar | Sportlink", News18 JKLH
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/JS_News18JKLH/JioHotstar/JS_News18JKLH.m3u8
 #EXTINF:-1 tvg-name="CTV IDC (HINDI) @virat10" tvg-logo="https://thumbs.dreamstime.com/b/no-signal-wallpaper-vibrant-error-message-retro-tv-screen-featuring-colorful-test-pattern-retro-tv-screen-illustration-404198661.jpg" group-title="Jio Hotstar | Sportlink", CTV IDC (HINDI)
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/f92cca8adaae6170c67bb51949afbb24_CTV/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="CTV IDC (ENGLISH) @virat10" tvg-logo="https://thumbs.dreamstime.com/b/no-signal-wallpaper-vibrant-error-message-retro-tv-screen-featuring-colorful-test-pattern-retro-tv-screen-illustration-404198661.jpg" group-title="Jio Hotstar | Sportlink", CTV IDC (ENGLISH)
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/05a9b1b618f242b3da9d968215432a72_CTV/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="CTV IDC (TAMIL) @virat10" tvg-logo="https://thumbs.dreamstime.com/b/no-signal-wallpaper-vibrant-error-message-retro-tv-screen-featuring-colorful-test-pattern-retro-tv-screen-illustration-404198661.jpg" group-title="Jio Hotstar | Sportlink", CTV IDC (TAMIL)
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/6c4aa2857af9dbaf5e7356737ebf4bb5_CTV/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="CTV IDC (TELUGU) @virat10" tvg-logo="https://thumbs.dreamstime.com/b/no-signal-wallpaper-vibrant-error-message-retro-tv-screen-featuring-colorful-test-pattern-retro-tv-screen-illustration-404198661.jpg" group-title="Jio Hotstar | Sportlink", CTV IDC (TELUGU)
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/fbab6dccfbe54c4fb38ec3ff6291fdb3_CTV/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="CTV IDC (KANNADA) @virat10" tvg-logo="https://thumbs.dreamstime.com/b/no-signal-wallpaper-vibrant-error-message-retro-tv-screen-featuring-colorful-test-pattern-retro-tv-screen-illustration-404198661.jpg" group-title="Jio Hotstar | Sportlink", CTV IDC (KANNADA)
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/305f6c39f663997943fadd41d113ac21_CTV/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="LIVE EVENTS IPL (CTV) @virat10" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8763/1739203338763-a.jpg" group-title="Jio Hotstar | Sportlink", LIVE EVENTS IPL (CTV)
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795537617~acl=%2f*~id=9f0bbf4e2905cf609ccc87a98a28bc40~data=hdntl~hmac=e8ec4f8f7617df7b99b6685bd2b6ff539f19e896ac26c9512fff20c5d4b054ec"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1795613954~acl=%2f*~id=e122d8f5b6fc3f9001154b9dceff740d~data=hdntl~hmac=c5437f64c2de43e631c147f2c41bd00a7a0954a08eef84eab03708a3d70b9411"}
 https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD @virat10" group-title="Movies | Sportlink" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" tvg-language="Hindi",Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
